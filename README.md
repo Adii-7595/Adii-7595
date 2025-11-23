@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-- 🔭 I’m a passionate **Web Developer** with a strong foundation in **Data Structures and Algorithms**.
+- 🔭 I’m a passionate **QA Analyst 1 along with web developer bakground** with a strong foundation in **Data Structures and Algorithms**.
 - 👀 I’m interested in **FullStack**, and exploring new **technologies**.
 - 🌱 I’m currently enhancing my skills in **ReactJS**, **Node.js**, and **MongoDB**.
 - 💞️ I’m looking to collaborate on **open-source projects** and **innovative startups**.
